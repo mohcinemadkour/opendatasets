@@ -1,0 +1,5 @@
+#! /bin/bash
+
+trash ./opendatasets.egg-info
+trash ./dist
+trash ./build
