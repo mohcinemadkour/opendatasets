@@ -176,7 +176,7 @@ This is an open source project and we welcome contributions.
 1. Clone the repository:
 
 ```
-git clone https://github.com/JovianML/opendatasets.git
+git clone https://github.com/mohcinemadkour/opendatasets.git
 ```
 
 2. Setup the Python environment for development
@@ -189,4 +189,3 @@ pip install -r requirements.txt
 
 3. Open up the project in VS code and make your changes. Make sure to install the Python Extension for VS Code and select the `opendatasets` conda environment.
 
-This package is developed and maintained by the [Jovian](https://www.jovian.ai) team.
